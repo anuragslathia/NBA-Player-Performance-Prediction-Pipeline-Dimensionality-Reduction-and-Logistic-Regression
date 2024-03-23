@@ -1,4 +1,4 @@
-#Predicting NBA Player Performance with PCA, LDA, and Logistic Regression Pipeline
+Predicting NBA Player Performance with PCA, LDA, and Logistic Regression Pipeline
 
 ## Overview
 This project focuses on predicting NBA player performance using machine learning techniques, specifically logistic regression models trained on data preprocessed with dimensionality reduction techniques such as PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis). The goal is to build a pipeline that accurately predicts whether a player will perform well based on various attributes and statistics.
